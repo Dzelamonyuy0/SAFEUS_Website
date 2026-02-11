@@ -1,26 +1,26 @@
-## SAFE-US Website for data analytics of Substance use in the US
+# SAFE-US Website for data analytics of Substance use in the US
 
-# Title
+## Title
 
 Investigation of Drug & Substance usage in the United States
 
-# Dataset(s) summary
+## Dataset(s) summary
 
 The dataset contains information on drug and substance usage, overdose fatalities, and the demographic groups most affected. 
 It highlights how different types of drugs are linked to overdose outcomes. It also shows how overdose outcomes vary by demographics.
 
-# Dataset(s) Metadata
+## Dataset(s) Metadata
 
 https://www.cdc.gov/overdose-prevention/data-research/facts-stats/dose-sys-accessible.html
 https://1drv.ms/x/c/1780d1644addf8f2/EUwK5nKEM_dOvIkdHshL80MBrENPYVZElS8rthGOUpodbA?e=ZWy7eI
 
-# Potential User Interactions
+## Potential User Interactions
 
 Searching and filtering data by state, age, ethnicity, and drug type
 Comparing overdose trends across demographics and regions
 Highlighting the potential consequences of drug use in a way that feels close to home
 Providing valuable insights to both new and current drug users, as well as informing bystanders and communities about the dangers and impacts of drug misuse
-# 3 potential user interactions:
+## Potential user interactions:
 1. Use a number to look up age ranges for data
 Potential Advantages: Allows users to pick which age groups they are interested in seeing data about
 Potential Disadvantages: Users over 25 are grouped together so it will be harder to understand the specifics for people above that age
