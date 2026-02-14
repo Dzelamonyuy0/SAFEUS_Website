@@ -1,6 +1,4 @@
-# CS257-Team Bigstackz Drug Usage in US
-Rachel, Eileen, Ayobami, Emmanuel
-
+# Drug Usage in US
 ## features in Drug Usage data in US 
 - command lines:
     <python3 command_line.py --substance "type substance" --year "chosen year">
