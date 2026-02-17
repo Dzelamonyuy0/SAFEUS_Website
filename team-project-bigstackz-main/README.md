@@ -40,9 +40,3 @@
 -  We used to have a html page for each of the substances in our dataset. These files are now deleted but they were named "substance name".py. Most of the lines in the files were the same with minor changes. We refractored the code by making one file called data_results.html which is universal for all the substances so it can be used to display data from any substance have have the right column labels.
 
 
-
-
-
-
-Template for long-term team projects for CS257 Software Design
-# Drug-Database-Website
